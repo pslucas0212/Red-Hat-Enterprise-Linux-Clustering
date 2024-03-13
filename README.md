@@ -5,7 +5,7 @@
 [Table of Contents - Red Hat Enterprise Linux](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents)
 
 ## General Clustering with RHEL Topics
-### Note: For additional SAP spefice clustering articles see []()
+#### Note: For additional SAP spefice clustering articles see [Red Hat Enterprise Linux for SAP](https://github.com/pslucas0212/RHEL-For-SAP-Useful-Links)
 
 - [How to build an active-active-active cluster with RHEL 8 and Percona MySQL](https://www.redhat.com/sysadmin/active-active-active-clusters)
 - [Support Policies for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3131271)
